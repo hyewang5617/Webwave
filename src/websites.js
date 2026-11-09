@@ -3,6 +3,7 @@
 export const websites = [
   {
     id: 'smash-university',
+    github: 'hong-iron/SMASH',
     title: 'SMASH 대학교',
     description: '우리 학교를 찾아 직접 부숴보는 3D 웹게임.',
     url: 'https://hong-iron.github.io/SMASH/',
@@ -12,3 +13,4 @@ export const websites = [
     color: '#e4efce',
   },
 ];
+
